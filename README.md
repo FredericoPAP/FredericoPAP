@@ -1,6 +1,8 @@
 - 👋 Hello, My name is Frederico Pereira
-- 🌱 I’m currently learning React.js and TypeScript
+- 💻 I use Java, JavaScript, CSS and HTML in most of my projects
+- 🧗‍♀️ I’m currently learning React.js and TypeScript
 - 📫 How to reach me: fred.pereira93@gmail.com
+
 
 
 <!---
