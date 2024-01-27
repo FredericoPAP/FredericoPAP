@@ -1,6 +1,6 @@
 - 👋 Hello, My name is Frederico Pereira
 - 💻 I use Java, JavaScript, CSS and HTML in most of my projects
-- 🧗‍♀️ I’m currently learning React.js and AWS
+- 🧗‍♀️ I’m currently learning React.js(workshop) and Kotlin.
 - 📫 How to reach me: fred.pereira93@gmail.com
 
 
