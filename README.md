@@ -1,6 +1,6 @@
 - 👋 Hello, My name is Frederico Pereira
 - 💻 I use Java and JavaScript in most of my projects
-- 🧗‍♀️ I’m currently learning databases (monstly MongoDB) and their interaction my with my projects.
+- 🧗‍♀️ I’m currently learning databases (monstly MongoDB) and implementing it in my projects. As well as improving my React skills with online courses and a personal project.
 - 📫 How to reach me: fred.pereira93@gmail.com
 
 
